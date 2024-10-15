@@ -2,7 +2,8 @@
 
 Welcome to the comprehensive preparation guide for the **AZ-900: Microsoft Azure Fundamentals** certification! This README outlines key resources, including official Microsoft materials and KloudSaga practice exams, to help you succeed.
 
-![AZ-900 Certification]()  <!-- Replace with actual image URL -->
+![AZ-900 Certification](microsoft-azure-fundamentals-az-900-learning-path.jpg)
+https://courses.kloudsaga.com/courses/azure-fundamentals-practice-tests <!-- Replace with actual image URL -->
 
 
 ## Course Overview
